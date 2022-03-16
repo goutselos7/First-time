@@ -12,3 +12,4 @@ for (minutes = 1; minutes >120; minutes +30){
     }
     console.log(`You use our pc for ${minutes} and you owe ${sum}`);
 }
+//hi 
